@@ -1,6 +1,7 @@
 # 1 - BAGELS
 # BY: Gabriel Siccardi
 # 13/10/2021
+# ver. 1.0.0
 
 import functions
 
